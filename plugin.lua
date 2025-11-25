@@ -5,6 +5,13 @@
 -- Information block for the plugin
 --[[ #include "info.lua" ]]
 
+local Colors = {
+    White = {255, 255, 255},
+    Black = {0, 0, 0},
+    Red = {255, 0, 0},
+    Green = {0, 255, 0}
+}
+
 -- Define the color of the plugin object in the design
 function GetColor(props)
   return { 102, 102, 102 }
@@ -83,3 +90,4 @@ end
 if Controls then
   --[[ #include "runtime.lua" ]]
 end
+
