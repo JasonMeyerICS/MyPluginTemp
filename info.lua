@@ -1,10 +1,10 @@
 PluginInfo = {
-  Name = "Base Plugin",
-  Version = "0.0",
+  Name = "ICS~Base Plugin",
+  Version = "0.1",
   BuildVersion = "0.0.0.1",
   Id = "4b263915-2486-4a78-bc8b-172aa46b4725",
-  Author = "Your_Company",
+  Author = "ICS~JMeyer",
   ShowDebug = true,
-  Description = "A very basic plugin"  
-
+  Description = "A very basic plugin" 
 }
+
